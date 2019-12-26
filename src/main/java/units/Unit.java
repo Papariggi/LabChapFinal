@@ -127,19 +127,5 @@ public abstract class Unit implements AllUnits
         return Objects.hash(health, attack, armor, cost, name);
     }
 
-    //    @Override
-//    public boolean equals(Object obj) {
-//        if (obj == this) {
-//            return true;
-//        }
-//        if (obj == null || obj.getClass() != this.getClass()) {
-//            return false;
-//        }
-//
-//        AllUnits guest = (Unit) obj;
-//        return (health == guest.getHealth() && attack == guest.getAttack()
-//                && armor == guest.getArmor() && name == guest.getName());
-//    }
-
 
 }
