@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9086b147-4106-4c6c-94e5-6c818556da78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LabChap-master" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SOgnOs8QhMv5pbQV3Mf1Yq48V5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="LabChap-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9086b147-4106-4c6c-94e5-6c818556da78" name="Default Changelist" comment="" />
+      <created>1571440221655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571440221655</updated>
+      <workItem from="1573569328561" duration="6688000" />
+      <workItem from="1574105452655" duration="227000" />
+      <workItem from="1577301413484" duration="1138000" />
+      <workItem from="1577303703536" duration="857000" />
+      <workItem from="1577309172193" duration="11659000" />
+      <workItem from="1577367199959" duration="8788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="61" key="#Main" timestamp="1577301546919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="61" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1577301546919" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1577370868672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577370868672" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1577375199218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577375199218" />
+    <state x="543" y="258" key="Github.ShareDialog" timestamp="1577375002501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="543" y="258" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1577375002501" />
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1577375316128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577375316128" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1577375316128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577375316128" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1577375316128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577375316128" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1577375316128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577375316128" />
+    <state width="1323" height="215" key="GridCell.Tab.1.bottom" timestamp="1577374604686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577374604686" />
+    <state width="1323" height="215" key="GridCell.Tab.1.center" timestamp="1577374604686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577374604686" />
+    <state width="1323" height="215" key="GridCell.Tab.1.left" timestamp="1577374604685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577374604685" />
+    <state width="1323" height="215" key="GridCell.Tab.1.right" timestamp="1577374604686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577374604686" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1577375084698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577375084698" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577367226891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577367226891" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/battleMap/BattleMap.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/command/Invoker.java</url>
+          <line>23</line>
+          <properties class="command.Invoker" method="undo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
